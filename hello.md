@@ -1,2 +1,2 @@
 #hello guys..
-just attended github workshop...(cool)
+just attended github workshop....
